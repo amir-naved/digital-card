@@ -73,3 +73,7 @@ h2 {
 .btn:hover {
   background-color: #f07211;
 }
+#extra-info p {
+  margin-bottom: 10px;
+}
+
